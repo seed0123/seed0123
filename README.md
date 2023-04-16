@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+I am G Siddarth
+
 <!--
 **seed0123/seed0123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
